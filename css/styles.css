@@ -1,1 +1,7 @@
-.kn-content { font-family: "Times New Roman", Georgia, Serif !important; }
+.kn-content { font-family: "Arial",
+Helvetica, sans-serif !important;
+background-color: "#d60000"
+}
+.headertest {
+  background-color: #d60000
+}
